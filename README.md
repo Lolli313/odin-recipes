@@ -1,1 +1,2 @@
 # odin-recipes
+In this project I will be creating a simple web page containing information about different food recipes. I will have demonstrated HTML skills using headers, organised and unorganised lists, hyperlinks and images.
